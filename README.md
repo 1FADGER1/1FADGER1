@@ -15,7 +15,7 @@ static void Main(string[] args)
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=1FADGER1&show_icons=true&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=1FADGER1&locale=en&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=1FADGER1&locale=en&theme=github_dark&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
 <p align="center"><img width="600" src="github-snake.svg" alt="snake"/></p>
