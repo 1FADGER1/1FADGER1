@@ -5,7 +5,7 @@
 static void Main(string[] args)
 {
   programmingLanguages[] code = {C#, C++};
-  framework[] tools = {WinForms, WPF, Entity Framework Core};
+  framework[] tools = {WinForms, WPF, ASP.Net Entity Framework Core};
   string[] fieldActivity = {"App dev", "Web", "GameDev", "SecDevOps", "Science"};
   string challenge = "За лето закончить работу над видеоигрой и приступить к пополнению проектов на GitHub";
   object[] other = {Figma, SQL, HTML и CSS}
