@@ -4,10 +4,10 @@
 ```cs
 static void Main(string[] args)
 {
-  programmingLanguages[] code = {C#, C++};
-  framework[] tools = {WinForms, WPF, ASP.Net, Entity Framework Core};
-  string[] fieldActivity = {"App dev", "Web", "GameDev", "SecDevOps", "Science"};
-  string challenge = "За лето закончить работу над видеоигрой и приступить к пополнению проектов на GitHub";
+  ProgrammingLanguages[] code = {C#, C++};
+  Framework[] tools = {WinForms, WPF, ASP.Net, Entity Framework Core, Unity};
+  string[] fieldActivity = {"App dev", "Web", "GameDev", "SecDevOps"};
+  string challenge = "За оставшиеся 4 месяца сделать 3 проекта";
   object[] other = {Figma, SQL, HTML и CSS}
 }
 ```
