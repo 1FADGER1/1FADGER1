@@ -5,10 +5,17 @@
 static void Main(string[] args)
 {
   ProgrammingLanguages[] code = {C#, C++};
-  Framework[] tools = {WinForms, WPF, ASP.Net, Entity Framework Core, Unity};
+  Dictionary<string, string[]> Technologies = new()
+    {
+        ["Desktop Frameworks"] = new[] { "WinForms", "WPF" },
+        ["Web Frameworks"] = new[] { "ASP.NET" },
+        ["Database Tools"] = new[] { "Entity Framework Core", "Dapper", "ADO.NET", "SQL" },
+        ["Game Engines"] = new[] { "Unity" },
+        ["Web"] = new[] { "HTML", "CSS", "JS" },
+        ["Design Tools"] = new[] { "Figma" }
+    };
   string[] fieldActivity = {"App dev", "Web", "GameDev", "SecDevOps"};
-  string challenge = "За оставшиеся 4 месяца сделать 3 проекта";
-  object[] other = {Figma, SQL, HTML и CSS}
+  string challenge = "Пока отсутствует";
 }
 ```
 [![Моя активность на GitHub](https://github-readme-activity-graph.vercel.app/graph?username=1FADGER1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
